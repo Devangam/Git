@@ -1,5 +1,7 @@
-class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
+class Test
+{
+    public static void main(String []args)
+    {
+        System.out.println("My First Java Program.");
     }
-}[D[D[D[D[D[D[D[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[A[B[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[This is my first project
+};
